@@ -9,5 +9,3 @@ vscode é um editor de código-fonte
 
 navegador - https://www.google.com.br/?hl=pt-BR
 é um programa criado para permitir a navegação pela internet
-
-Site Botafogo - https://scodler.github.io/Desenvolvimento-Web/repositorio/Ap2/home.html
